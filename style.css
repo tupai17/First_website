@@ -1,0 +1,159 @@
+.body {
+    font-family: "Roboto";
+}
+#Logo {
+    font-weight: bold;
+    font-size: 24px;
+    margin-right: 550px;
+    margin-left: 26px;
+}
+.top {
+    background-color: #1F2937;
+    color: white;
+}
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    padding: 25px;
+    font-size: 18px;
+    margin-right: 100px;
+    margin-left: 15px;
+}
+header, #gadka{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.bew button{
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #3882f6;
+    color: white;
+    border: #3882f6;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
+.bew {
+    margin: 45px;
+    width: 500px;
+    padding: 5px;
+}
+.web {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#thor {
+    width: 500px;
+    height: 200px;
+    margin-right: 100px;
+}
+#this {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+/*zasrane psy - jest gites */
+.dogs {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  margin-bottom: 60px;
+}
+.dogs div {
+    width: 150px;
+    margin: 50px;
+    padding-right: 35px;
+    margin-top: 20px;
+    float: left;
+    text-align: center;
+    overflow: auto;
+    margin: 0.1%;
+}
+.dogs div img {
+    width: 150px;
+    border:2px solid white;
+    margin: 0.1%; 
+    margin-top: 20px;
+}
+#some{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*bump bump */
+
+.ccontainer {
+    background-color: #E5E7EB;
+    padding: 80px;
+}
+.ccontainer #adef {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 140px;
+    margin-left: 140px;
+}
+.ccontainer #abef {
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-right: 140px;
+}
+
+/*badabim badabom */
+
+.cccontainer {
+    background-color: #3882f6;
+    font-size: 18px;
+    color: #E5E7EB;
+    border-radius: 5px;
+    margin: 120px;
+    padding: 50px;
+    
+}
+
+.cccontainer button {
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border: solid 2px #E5E7EB;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    
+}
+.cccontainer #call {
+    font-weight: 900;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+      
+}
+.cccontainer #answer {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+     
+}
+
+#Copyright {
+    font-size: 12px;
+    padding: 50px;
+    text-align: center;
+    background-color: #1F2937;
+    color: white;
+    bottom: 0;
+}
